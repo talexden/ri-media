@@ -1,0 +1,19 @@
+{
+  "name": "ri-media",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/talexden/ri-media.git"
+  },
+  "author": "Aleksey\tTitov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/talexden/ri-media/issues"
+  },
+  "homepage": "https://github.com/talexden/ri-media#readme"
+}
